@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MenuScripts\ResultScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\MenuScripts\ResultScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Timer.js" Line="29" Column="21" />
+      <File FileName="Assets\Scripts\MenuScripts\MainMenuScript.js" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\MenuScripts\UpdateScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerCar_Script.js" Line="367" Column="20" />
+      <File FileName="Assets\Scripts\MenuScripts\MapMenuScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScripts\OptionsScript.js" Line="13" Column="4" />
+      <File FileName="Assets\Scripts\autorotvertical.js" Line="6" Column="1" />
+      <File FileName="Assets\Scripts\MenuScripts\CreditsScript.js" Line="14" Column="7" />
+      <File FileName="Assets\Scripts\BrakeLight_Script.js" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\MenuScripts\MapSelectScript.js" Line="81" Column="8" />
+      <File FileName="Assets\Scripts\Level1_Unlocker.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LapInc.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller_script.js" Line="41" Column="32" />
+      <File FileName="Assets\Scripts\PosInc.js" Line="201" Column="5" />
+      <File FileName="Assets\Scripts\Timeoutsound.js" Line="9" Column="27" />
+      <File FileName="Assets\Scripts\MenuScripts\CarColorChangeScript.js" Line="35" Column="14" />
+      <File FileName="Assets\Scripts\MenuScripts\PauseMenuScript.js" Line="54" Column="34" />
+      <File FileName="Assets\Scripts\MenuScripts\3D\LoadScript.js" Line="32" Column="29" />
+      <File FileName="Assets\Scripts\AICar_Script.js" Line="7" Column="24" />
+      <File FileName="Assets\Scripts\Timer1.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScripts\CarMenuScript.js" Line="65" Column="5" />
+      <File FileName="Assets\Scripts\Headlamp_Script.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\vol_cust.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScripts\3D\3dMainMenu.js" Line="56" Column="34" />
+      <File FileName="Assets\Scripts\MenuScripts\CursorScript.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
